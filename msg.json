@@ -4,7 +4,7 @@
     "nome": "Ana Souza",
     "mensagem": "Oi, tudo bem?",
     "hora": "10:45",
-    "foto": "https://randomuser.me/api/portraits/women/45.jpg",
+    "foto": "https://avatar.iran.liara.run/public/1",
     "status": "recebida"
   },
   {
@@ -12,7 +12,7 @@
     "nome": "Marcos Lima",
     "mensagem": "Cheguei no trabalho!",
     "hora": "09:20",
-    "foto": "https://randomuser.me/api/portraits/men/10.jpg",
+    "foto": "https://avatar.iran.liara.run/public/2",
     "status": "enviada"
   },
   {
@@ -20,7 +20,7 @@
     "nome": "Carlos Pereira",
     "mensagem": "Hoje tem reunião às 14h",
     "hora": "08:10",
-    "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+    "foto": "https://avatar.iran.liara.run/public/3",
     "status": "lida"
   }
 ]
