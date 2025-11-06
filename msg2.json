@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nome": "Maria Júlia",
+    "mensagem": "Olá como vai??",
+    "hora": "17:45",
+    "foto": "https://avatar.iran.liara.run/public/57",
+    "status": "recebida"
+  },
+  {
+    "id": 2,
+    "nome": "Antônio Fernando",
+    "mensagem": "Estou a caminho!",
+    "hora": "09:33",
+    "foto": "https://avatar.iran.liara.run/public/5",
+    "status": "enviada"
+  },
+  {
+    "id": 3,
+    "nome": "Josivaldo Pereira",
+    "mensagem": "Responde!!",
+    "hora": "22:10",
+    "foto": "https://avatar.iran.liara.run/public/6",
+    "status": "lida"
+  }
+  {
+    "id": 4,
+    "nome": "Ednaldo Pereira",
+    "mensagem": "Demoro 👍",
+    "hora": "18:10",
+    "foto": "https://avatar.iran.liara.run/public/9",
+    "status": "lida"
+  }
+  {
+    "id": 5,
+    "nome": "Marcela Moreira",
+    "mensagem": "dormiu",
+    "hora": "01:10",
+    "foto": "https://avatar.iran.liara.run/public/80",
+    "status": "lida"
+  }
+]
