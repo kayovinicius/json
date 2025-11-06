@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Souza",
+    "mensagem": "Oi, tudo bem?",
+    "hora": "10:45",
+    "foto": "https://i.pravatar.cc/150?img=1",
+    "status": "recebida"
+  },
+  {
+    "id": 2,
+    "nome": "Marcos Lima",
+    "mensagem": "Cheguei no trabalho!",
+    "hora": "09:20",
+    "foto": "https://i.pravatar.cc/150?img=2",
+    "status": "enviada"
+  },
+  {
+    "id": 3,
+    "nome": "Carlos Pereira",
+    "mensagem": "Hoje tem reunião às 14h",
+    "hora": "08:10",
+    "foto": "https://i.pravatar.cc/150?img=3",
+    "status": "lida"
+  }
+]
