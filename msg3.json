@@ -30,5 +30,134 @@
     "hora": "22:13",
     "foto": "https://avatar.iran.liara.run/public/4",
     "status": "recebida"
+  },
+
+  {
+    "id": 5,
+    "nome": "Mariana Ribeiro",
+    "mensagem": "Conseguiu terminar o relatório?",
+    "hora": "14:27",
+    "foto": "https://avatar.iran.liara.run/public/52",
+    "status": "enviada"
+  },
+  {
+    "id": 6,
+    "nome": "Lucas Martins",
+    "mensagem": "Boa noite! Tá acordado?",
+    "hora": "23:41",
+    "foto": "https://avatar.iran.liara.run/public/25",
+    "status": "recebida"
+  },
+  {
+    "id": 7,
+    "nome": "Beatriz Rocha",
+    "mensagem": "Te mandei os arquivos!",
+    "hora": "18:09",
+    "foto": "https://avatar.iran.liara.run/public/51",
+    "status": "lida"
+  },
+  {
+    "id": 8,
+    "nome": "Gabriel Fernandes",
+    "mensagem": "Já almoçou?",
+    "hora": "12:33",
+    "foto": "https://avatar.iran.liara.run/public/8",
+    "status": "recebida"
+  },
+  {
+    "id": 9,
+    "nome": "Carla Souza",
+    "mensagem": "Chegou a encomenda!",
+    "hora": "16:58",
+    "foto": "https://avatar.iran.liara.run/public/64",
+    "status": "enviada"
+  },
+  {
+    "id": 10,
+    "nome": "Thiago Araújo",
+    "mensagem": "Amanhã te conto.",
+    "hora": "20:11",
+    "foto": "https://avatar.iran.liara.run/public/19",
+    "status": "lida"
+  },
+  {
+    "id": 11,
+    "nome": "Larissa Pereira",
+    "mensagem": "Pode me ajudar aqui rapidinho?",
+    "hora": "10:05",
+    "foto": "https://avatar.iran.liara.run/public/63",
+    "status": "recebida"
+  },
+  {
+    "id": 12,
+    "nome": "André Lima",
+    "mensagem": "Fechou!",
+    "hora": "15:20",
+    "foto": "https://avatar.iran.liara.run/public/3",
+    "status": "enviada"
+  },
+  {
+    "id": 13,
+    "nome": "Patrícia Mendes",
+    "mensagem": "Saudades! Quando aparece?",
+    "hora": "19:47",
+    "foto": "https://avatar.iran.liara.run/public/62",
+    "status": "lida"
+  },
+  {
+    "id": 14,
+    "nome": "Rodrigo Silva",
+    "mensagem": "Internet caiu aí também?",
+    "hora": "08:13",
+    "foto": "https://avatar.iran.liara.run/public/13",
+    "status": "recebida"
+  },
+  {
+    "id": 15,
+    "nome": "Camila Cardoso",
+    "mensagem": "Tô te esperando na chamada.",
+    "hora": "09:01",
+    "foto": "https://avatar.iran.liara.run/public/65",
+    "status": "recebida"
+  },
+  {
+    "id": 16,
+    "nome": "Henrique Duarte",
+    "mensagem": "Valeu pela ajuda!",
+    "hora": "17:35",
+    "foto": "https://avatar.iran.liara.run/public/2",
+    "status": "enviada"
+  },
+  {
+    "id": 17,
+    "nome": "Sofia Lima",
+    "mensagem": "Me lembra de te contar algo!",
+    "hora": "21:22",
+    "foto": "https://avatar.iran.liara.run/public/61",
+    "status": "lida"
+  },
+  {
+    "id": 18,
+    "nome": "Diego Carvalho",
+    "mensagem": "Onde você tá?",
+    "hora": "13:14",
+    "foto": "https://avatar.iran.liara.run/public/11",
+    "status": "recebida"
+  },
+  {
+    "id": 19,
+    "nome": "Luana Matos",
+    "mensagem": "Ok, combinado!",
+    "hora": "16:02",
+    "foto": "https://avatar.iran.liara.run/public/60",
+    "status": "enviada"
+  }
+  {
+    "id": 20,
+    "nome": "Catiana Silva",
+    "mensagem": "Pode me ajudar?!",
+    "hora": "19:09",
+    "foto": "https://avatar.iran.liara.run/public/59",
+    "status": "enviada"
   }
 ]
